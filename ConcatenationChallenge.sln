@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConcatenationChallenge", "ConcatenationChallenge.vcxproj", "{9C783993-AF39-4A30-86C1-62E4976B2C30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1D34FB7C-5746-4F8C-847C-8E0D7901AFCE}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		wordsforproblem.txt = wordsforproblem.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C783993-AF39-4A30-86C1-62E4976B2C30}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C783993-AF39-4A30-86C1-62E4976B2C30}.Debug|Win32.Build.0 = Debug|Win32
+		{9C783993-AF39-4A30-86C1-62E4976B2C30}.Release|Win32.ActiveCfg = Release|Win32
+		{9C783993-AF39-4A30-86C1-62E4976B2C30}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F6CD9FC-8E22-4DAA-8606-F02269764000}
+	EndGlobalSection
+EndGlobal
